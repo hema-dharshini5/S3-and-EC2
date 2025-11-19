@@ -76,10 +76,12 @@ To create a Simple Storage Service (S3) in AWS and to launch an EC2 instance in 
 # Snapshots
 
 **Snapshot 1:** Simple Storage Service (S3)  
-![alt text](output-1.png)
+<img width="1920" height="868" alt="output-1" src="https://github.com/user-attachments/assets/f589e0a4-072c-4c43-81f6-df2cb217a6cc" />
+
 
 **Snapshot 2:** EC2 (Elastic Compute Cloud) – Instance  
-![alt text](output-2.png)
+<img width="1920" height="1516" alt="output-2" src="https://github.com/user-attachments/assets/0f8ed886-e8ce-47ae-ac57-8c362bd22077" />
+
 
 ---
 
